@@ -176,6 +176,7 @@
   },
   "overrides": {
     "pyodide": "0.26.4",
-    "isolated-vm": "npm:empty-npm-package@1.0.0"
+    "isolated-vm": "npm:empty-npm-package@1.0.0",
+    "xlsx": "0.18.5"
   }
 }
